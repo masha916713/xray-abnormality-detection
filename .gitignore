@@ -3,6 +3,22 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env/
+
+# Data & outputs
+data/
+models/
+outputs/
+
+# OS
+.DS_Store
+Thumbs.db
 # C extensions
 *.so
 
